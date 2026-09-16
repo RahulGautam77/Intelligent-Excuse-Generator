@@ -1,0 +1,171 @@
+{
+  "excuses": {
+    "work": {
+      "high": {
+        "formal": [
+          "I’m terribly sorry, but I had a family emergency this morning and can’t attend the meeting.",
+          "Unfortunately, I am experiencing technical issues that prevent me from joining the call."
+        ],
+        "emotional": [
+          "I’m really sorry, but something urgent came up with my family and I can't make it.",
+          "I hate to do this, but I just can't face the meeting due to personal reasons."
+        ]
+      },
+      "normal": {
+        "formal": [
+          "I apologize, but I have a prior commitment that I cannot reschedule.",
+          "I am currently feeling under the weather and may not be fully available today."
+        ],
+        "emotional": [
+          "I’m sorry, but I need to take care of something important that came up.",
+          "I’m feeling overwhelmed today and need to handle some personal matters."
+        ]
+      },
+      "low": {
+        "formal": [
+          "I will be late to the meeting due to unforeseen circumstances.",
+          "A scheduling conflict may delay my participation today."
+        ],
+        "emotional": [
+          "I’m sorry for the delay, something came up unexpectedly.",
+          "I got held up but will join as soon as possible."
+        ]
+      }
+    },
+    "school": {
+      "high": {
+        "formal": [
+          "I am unable to attend class due to a medical emergency.",
+          "I have an urgent family matter that requires my immediate attention."
+        ],
+        "emotional": [
+          "I’m really sorry, but I need to deal with a tough situation at home.",
+          "I won’t be able to come because of something personal I’m going through."
+        ]
+      },
+      "normal": {
+        "formal": [
+          "I am feeling unwell and will miss class today.",
+          "I have an appointment that I cannot reschedule."
+        ],
+        "emotional": [
+          "I’m not feeling great today and need some rest.",
+          "I have some personal stuff to handle today, sorry for missing class."
+        ]
+      },
+      "low": {
+        "formal": [
+          "I will be late for class due to transportation issues.",
+          "Unexpected delay on my way to school."
+        ],
+        "emotional": [
+          "Lost track of time, sorry I’m going to be late.",
+          "Stuck in traffic, will be there soon."
+        ]
+      }
+    },
+    "social": {
+      "high": {
+        "formal": [
+          "Unfortunately, a last-minute emergency has come up and I can't make it.",
+          "I have urgent obligations that prevent me from attending."
+        ],
+        "emotional": [
+          "I hate to cancel, but something serious came up last minute.",
+          "I’m really upset but can’t make it because of something important."
+        ]
+      },
+      "normal": {
+        "formal": [
+          "I have prior engagements that I cannot postpone.",
+          "I’m feeling under the weather and prefer to rest."
+        ],
+        "emotional": [
+          "I’m not feeling up to it today, sorry.",
+          "Need some me-time, maybe next time!"
+        ]
+      },
+      "low": {
+        "formal": [
+          "I will be late to the gathering due to traffic.",
+          "Running a bit behind schedule, will join soon."
+        ],
+        "emotional": [
+          "Got held up, sorry for the delay!",
+          "I’m on my way, just stuck for a moment."
+        ]
+      }
+    },
+    "family": {
+      "high": {
+        "formal": [
+          "I must attend to a critical family emergency.",
+          "Due to unforeseen family circumstances, I cannot be available."
+        ],
+        "emotional": [
+          "Something serious happened at home and I need to be there.",
+          "My family needs me urgently, I’m very sorry."
+        ]
+      },
+      "normal": {
+        "formal": [
+          "I have family commitments that require my attention today.",
+          "I’m attending to a family matter and will be unavailable."
+        ],
+        "emotional": [
+          "Family needs me right now; apologies for any inconvenience.",
+          "I’m dealing with personal family stuff today."
+        ]
+      },
+      "low": {
+        "formal": [
+          "I will be late due to family-related duties.",
+          "Family obligations are delaying my arrival."
+        ],
+        "emotional": [
+          "Family delayed me, I’m on my way.",
+          "Got sidetracked by family stuff, sorry!"
+        ]
+      }
+    }
+  },
+  "apologies": {
+    "formal": [
+      "I sincerely apologize for the inconvenience. This was an unavoidable emergency.",
+      "Please accept my apologies for any disruption caused."
+    ],
+    "emotional": [
+      "I feel terrible about this and hope you can understand.",
+      "I’m really sorry and hope to make it up to you."
+    ]
+  },
+  "emergency_sms": {
+    "work": [
+      "Help, something urgent just happened. Need assistance ASAP!",
+      "Emergency at home. Please be understanding if I’m unreachable."
+    ],
+    "school": [
+      "Feeling really sick now, can’t come to class. Sorry!",
+      "Family emergency just came up, won’t make it today."
+    ],
+    "social": [
+      "Sorry, emergency just popped up, can’t join tonight.",
+      "Had to handle something urgent, please forgive me!"
+    ],
+    "family": [
+      "Family emergency, can’t talk now. Will update later.",
+      "Please help, urgent family issue. Can’t explain now."
+    ]
+  },
+  "fake_documents": {
+    "doctor_note": [
+      "This is to certify that [Name] was under medical care on [Date].",
+      "Patient [Name] is unfit for work/school for [Duration] due to illness."
+    ],
+    "death_certificate": [
+      "Death Certificate\nName: [Name]\nDate: [Date]\nCause: [Cause]",
+      "This certifies the passing of [Name] on [Date]. Our condolences."
+    ]
+  }
+}
+
